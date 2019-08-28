@@ -1,0 +1,55 @@
+main {
+    min-height:80vh;
+    background-color: blanchedalmond;
+    position:relative;
+}
+
+nav {
+    height:10vh;
+}
+
+footer {
+    height:10vh;
+    background-color:white;
+    position:relative;
+}
+
+.copyright {
+    background-color:white;
+    position:absolute;
+    top:80%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+.container {
+    position: relative;
+    margin-top:2%;
+    margin-bottom:2%;
+}
+
+.headername {
+    padding-top:1%;
+    padding-bottom:1%;
+    border-bottom: 2px solid #b2bec3;
+    margin-left:1%;
+    margin-right:1%;
+}
+
+
+.container2 {
+    position:relative;
+    background-color: white;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+
+.responsive {
+    position:relative;
+    width:96%;
+    height:auto;
+    margin-right:2%;
+    margin-left:2%;
+    margin-top:2%;
+    margin-bottom:2%
+}
